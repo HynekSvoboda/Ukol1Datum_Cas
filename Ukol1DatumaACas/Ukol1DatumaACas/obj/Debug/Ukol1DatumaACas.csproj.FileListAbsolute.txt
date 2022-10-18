@@ -1,0 +1,11 @@
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\bin\Debug\Ukol1DatumaACas.exe.config
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\bin\Debug\Ukol1DatumaACas.exe
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\bin\Debug\Ukol1DatumaACas.pdb
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.AssemblyReference.cache
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.SuggestedBindingRedirects.cache
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.Form1.resources
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.Properties.Resources.resources
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.GenerateResource.cache
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.CoreCompileInputs.cache
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.exe
+E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.pdb
