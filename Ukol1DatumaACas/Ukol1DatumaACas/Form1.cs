@@ -22,6 +22,7 @@ namespace Ukol1DatumaACas
 
         private void button1_Click(object sender, EventArgs e)
         {
+            label2.Text = "Žádná osoba nenalezena";
             DateTime aktualniden = DateTime.Today;
             int nejstarsi = 0;
             for (int i = 0; i < textBox1.Lines.Count(); i++)
@@ -35,17 +36,16 @@ namespace Ukol1DatumaACas
                     TimeSpan rozdil = aktualniden - date;
 
                     int stari = Convert.ToInt32(rozdil.TotalDays);
-                    if (nejstarsi < stari)
-                    {
-                        label2.Text = "Nejstarsi je: " + clovek[0] + " " + clovek[1];
-                        nejstarsi = stari;
-                    }
-                    else if (nejstarsi == stari)
+                    if (nejstarsi == stari)
                     {
                         label2.Text += " a " + clovek[0] + " " + clovek[1];
                         nejstarsi = stari;
                     }
-                    else label2.Text = "Žádný člověk nenalezen";
+                    if (nejstarsi < stari)
+                    {
+                        label2.Text = "Nejstarsi je/jsou: " + clovek[0] + " " + clovek[1];
+                        nejstarsi = stari;
+                    }
                 }
                 catch
                 {

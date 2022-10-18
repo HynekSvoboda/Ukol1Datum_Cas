@@ -9,3 +9,14 @@ E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.c
 E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.CoreCompileInputs.cache
 E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.exe
 E:\programování\C#\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.pdb
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\bin\Debug\Ukol1DatumaACas.exe.config
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\bin\Debug\Ukol1DatumaACas.exe
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\bin\Debug\Ukol1DatumaACas.pdb
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.AssemblyReference.cache
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.SuggestedBindingRedirects.cache
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.Form1.resources
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.Properties.Resources.resources
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.GenerateResource.cache
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.csproj.CoreCompileInputs.cache
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.exe
+C:\Users\i5\Source\Repos\Ukol1Datum_Cas\Ukol1DatumaACas\Ukol1DatumaACas\obj\Debug\Ukol1DatumaACas.pdb
